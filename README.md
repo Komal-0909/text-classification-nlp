@@ -4,7 +4,7 @@
 This project implements a Text Classification Model using Natural Language Processing (NLP) and Machine Learning techniques.  
 The model is trained to classify text into multiple categories such as news, spam, positive, and negative.
 
-It demonstrates the complete NLP pipeline including  text preprocessing, TF-IDF feature extraction, model training, evaluation, and visualization**.
+It demonstrates the complete NLP pipeline including  text preprocessing, TF-IDF feature extraction, model training, evaluation, and visualization.
 
 ---
 
